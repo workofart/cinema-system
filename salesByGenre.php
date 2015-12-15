@@ -1,0 +1,1 @@
+select count(*), genre from genre customerpurchase group by genre
