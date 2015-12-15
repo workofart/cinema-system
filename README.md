@@ -2,7 +2,7 @@
 
 #### A web-based cinema system implemented in HTML/CSS, Javascript, PHP, and MySQL database.
 
-<p><a href="ec2-54-209-242-33.compute-1.amazonaws.com"title="demo">Demo</a></p>
+<p><a href="http://ec2-54-209-242-33.compute-1.amazonaws.com"title="demo">Demo</a></p>
 
 There are two main roles in the cinema system, with corresponding functions each of them can access.
 
