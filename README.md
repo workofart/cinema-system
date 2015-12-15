@@ -4,11 +4,16 @@
 
 <p><a href="http://ec2-54-209-242-33.compute-1.amazonaws.com"title="demo">Demo</a></p>
 
+***
+**Languages/Frameworks:**
+HTML5/CSS3, PHP, MySQL, JavaScript, Bootstrap 3.3.5
+***
+
 There are two main roles in the cinema system, with corresponding functions each of them can access.
 
 `Back-end staff (in the office) and front-end staff (directly facing the customer at the counter)`
 
-** Back-end Staff **
+**Back-end Staff**
 
 * **Movie:** add, delete and update movies and list all movies either by year or alphabetically.
 	* the staff can enter all the data about new movies (id, title and year of release), and the genre(s) it is associated with
@@ -21,7 +26,7 @@ There are two main roles in the cinema system, with corresponding functions each
 * **Customer:** add, delete and modify information about the customers and list all the customer
 
 
-** Front-end Staff **
+**Front-end Staff**
 
 * **Ticket sale:** select a customer and a showing and sell a ticket to the user.  The ticket price will be up to the staff to pick (they can enter any number they want)
 * **Rating System:** allow a customer to give a rating to the showing they just saw (a number of stars between 1 and 5)
