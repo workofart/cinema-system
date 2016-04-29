@@ -2,8 +2,6 @@
 
 #### A web-based cinema system implemented in HTML/CSS, Javascript, PHP, and MySQL database.
 
-<p><a href="http://ec2-54-209-242-33.compute-1.amazonaws.com"title="demo">Demo</a></p>
-
 ***
 **Languages/Frameworks:**
 HTML5/CSS3, PHP, MySQL, JavaScript, Bootstrap 3.3.5
